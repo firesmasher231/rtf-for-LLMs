@@ -1,0 +1,278 @@
+{
+  "page_info": {
+    "words_current": 177,
+    "chars_current": 1230,
+    "pages_estimate": 0.4
+  },
+  "style_legend": {
+    "body-text": "Calibri, 10.5pt",
+    "heading-name": "Garamond, 16pt, bold, small-caps, colored",
+    "section-title": "Garamond, 10.5pt, bold, small-caps, colored",
+    "hyperlink": "Garamond, 12pt, underline, colored",
+    "body-bold": "Calibri, 10.5pt, bold",
+    "bold-garamond-11pt": "Garamond, 11pt, bold",
+    "garamond-10.5pt": "Garamond, 10.5pt",
+    "garamond-11pt": "Garamond, 11pt",
+    "bold-garamond-10.5pt": "Garamond, 10.5pt, bold",
+    "garamond-12pt": "Garamond, 12pt"
+  },
+  "available_styles": [
+    "body-text",
+    "heading-name",
+    "section-title",
+    "hyperlink",
+    "body-bold",
+    "bold-garamond-11pt",
+    "garamond-10.5pt",
+    "garamond-11pt",
+    "bold-garamond-10.5pt",
+    "garamond-12pt"
+  ],
+  "document": [
+    {
+      "type": "paragraph",
+      "section": "header",
+      "alignment": "center",
+      "style": "heading-name",
+      "text": "Bob the Builder"
+    },
+    {
+      "type": "paragraph",
+      "section": "header",
+      "alignment": "center",
+      "runs": [
+        {
+          "text": "Bobsville, UK  •  bob@canwefixit.com  •  ",
+          "style": "garamond-12pt"
+        },
+        {
+          "text": "linkedin.com/in/bobthebuilder",
+          "style": "hyperlink"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "alignment": "justify",
+      "border_bottom": true,
+      "style": "section-title",
+      "text": "Professional Summary"
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "alignment": "justify",
+      "style": "body-text",
+      "text": "Award-winning builder and project manager with 20+ years of experience in residential and commercial construction. Known for the motto “Can we fix it? Yes we can!” Expertise in leading diverse teams of machines and humans to deliver projects on time."
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "alignment": "justify",
+      "border_bottom": true,
+      "style": "section-title",
+      "text": "Experience"
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "alignment": "justify",
+      "runs": [
+        {
+          "text": "Lead Builder & Project Manager",
+          "style": "bold-garamond-10.5pt"
+        },
+        {
+          "text": " — Bob’s Building Co., Bobsville (2003–Present)",
+          "style": "garamond-10.5pt"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "alignment": "justify",
+      "runs": [
+        {
+          "text": "- Managed a fleet of sentient construction vehicles including ",
+          "style": "body-text"
+        },
+        {
+          "text": "Scoop",
+          "style": "body-bold"
+        },
+        {
+          "text": ", ",
+          "style": "body-text"
+        },
+        {
+          "text": "Muck",
+          "style": "body-bold"
+        },
+        {
+          "text": ", and ",
+          "style": "body-text"
+        },
+        {
+          "text": "Dizzy",
+          "style": "body-bold"
+        },
+        {
+          "text": ".",
+          "style": "body-text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "alignment": "justify",
+      "style": "body-text",
+      "text": "- Delivered 200+ construction projects with a 100 completion rate (“Yes we can” guarantee)."
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "alignment": "justify",
+      "style": "body-text",
+      "text": "- Introduced sustainable building practices, reducing material waste by 35."
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "alignment": "justify",
+      "runs": [
+        {
+          "text": "- Trained junior builder ",
+          "style": "body-text"
+        },
+        {
+          "text": "Wendy",
+          "style": "body-bold"
+        },
+        {
+          "text": " to full partner status, doubling team capacity.",
+          "style": "body-text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "alignment": "justify",
+      "runs": [
+        {
+          "text": "Junior Builder",
+          "style": "bold-garamond-10.5pt"
+        },
+        {
+          "text": " — Fixham Council, Fixham (1999–2003)",
+          "style": "garamond-10.5pt"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "alignment": "justify",
+      "style": "body-text",
+      "text": "- Completed the Fixham Bypass renovation under budget and ahead of schedule."
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "alignment": "justify",
+      "style": "body-text",
+      "text": "- Won “Builder of the Year” award two consecutive years."
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "alignment": "justify",
+      "border_bottom": true,
+      "style": "section-title",
+      "text": "Education"
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "runs": [
+        {
+          "text": "Bobsville Technical College",
+          "style": "bold-garamond-11pt"
+        },
+        {
+          "text": " — NVQ Level 3 in Construction & Project Management (1999)",
+          "style": "garamond-11pt"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "alignment": "justify",
+      "border_bottom": true,
+      "style": "section-title",
+      "text": "Skills & Certifications"
+    },
+    {
+      "type": "paragraph",
+      "section": "body",
+      "runs": [
+        {
+          "text": "Project Management",
+          "style": "bold-garamond-11pt"
+        },
+        {
+          "text": ", ",
+          "style": "garamond-10.5pt"
+        },
+        {
+          "text": "Heavy Machinery Operation",
+          "style": "bold-garamond-11pt"
+        },
+        {
+          "text": ", ",
+          "style": "garamond-10.5pt"
+        },
+        {
+          "text": "Sustainable Construction",
+          "style": "bold-garamond-11pt"
+        },
+        {
+          "text": ", ",
+          "style": "garamond-10.5pt"
+        },
+        {
+          "text": "Team Leadership",
+          "style": "bold-garamond-11pt"
+        },
+        {
+          "text": ", ",
+          "style": "garamond-10.5pt"
+        },
+        {
+          "text": "Health & Safety (CSCS Gold Card)",
+          "style": "bold-garamond-11pt"
+        },
+        {
+          "text": ", ",
+          "style": "garamond-10.5pt"
+        },
+        {
+          "text": "Blueprint Reading",
+          "style": "bold-garamond-11pt"
+        },
+        {
+          "text": ", ",
+          "style": "garamond-10.5pt"
+        },
+        {
+          "text": "Client Relations",
+          "style": "bold-garamond-11pt"
+        }
+      ]
+    }
+  ]
+}

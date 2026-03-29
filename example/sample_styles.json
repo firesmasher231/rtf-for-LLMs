@@ -1,0 +1,42 @@
+{
+  "style_registry": {
+    "body-text": "\\f1\\fs21",
+    "heading-name": "\\f0\\fs32\\b\\scaps\\cf3",
+    "section-title": "\\f0\\fs21\\b\\scaps\\cf3",
+    "hyperlink": "\\f0\\fs24\\ul\\cf2",
+    "body-bold": "\\f1\\fs21\\b",
+    "bold-garamond-11pt": "\\f0\\fs22\\b",
+    "garamond-10.5pt": "\\f0\\fs21",
+    "garamond-11pt": "\\f0\\fs22",
+    "bold-garamond-10.5pt": "\\f0\\fs21\\b",
+    "garamond-12pt": "\\f0\\fs24"
+  },
+  "font_table": {
+    "0": "Garamond",
+    "1": "Calibri"
+  },
+  "color_table": [
+    null,
+    {
+      "red": 0,
+      "green": 0,
+      "blue": 0
+    },
+    {
+      "red": 0,
+      "green": 0,
+      "blue": 255
+    },
+    {
+      "red": 51,
+      "green": 51,
+      "blue": 102
+    }
+  ],
+  "doc_defaults": {
+    "font": 1,
+    "font_size": 22
+  },
+  "rtf_preamble": "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\froman\\fcharset0 Garamond;}{\\f1\\fswiss\\fcharset0 Calibri;}}\n{\\colortbl;\\red0\\green0\\blue0;\\red0\\green0\\blue255;\\red51\\green51\\blue102;}\n{\\*\\defchp \\f1\\fs22}{\\*\\defpap \\ql \\li0\\ri0\\sa200\\widctlpar}\n\\paperw12240\\paperh15840\\margl1440\\margr1440\\margt1440\\margb1440\n{\\*\\ftnsep \\pard\\plain \\ql \\li0\\ri0\\widctlpar \\f0\\fs22 {\\chftnsep \\par }}\n\\sectd \\ltrsect\\linex0\\endnhere\\sftnbj\n",
+  "rtf_mid_section": "\n"
+}

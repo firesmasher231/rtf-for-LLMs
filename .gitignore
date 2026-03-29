@@ -1,0 +1,7 @@
+__pycache__
+.claude
+
+# Don't commit real CVs or their decompiled outputs (keep example/)
+/*.rtf
+/*.json
+/*_styles.json
