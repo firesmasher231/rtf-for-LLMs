@@ -1,6 +1,6 @@
 # RTF Tailwind
 
-A semantic style abstraction layer that makes RTF documents safely editable by LLMs.
+A semantic style abstraction layer that makes RTF documents safely editable by LLMs. Made for my own use for updating my CV, but open-sourced for anyone else who needs to edit/update RTF documents with an LLM. LLM made formatting is not very good otherwise at this point in time.
 
 ## The Problem
 
